@@ -6,6 +6,8 @@ public class Utente {
 	private String cognome;
 	
 	
+	public Utente () {}
+	
 	public String getNome() {
 		return nome;
 	}
